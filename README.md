@@ -1,0 +1,5 @@
+![Race 1](https://github.com/agrahamt/typing-speeds/blob/master/race1_2017-02-19%20at%202.02.31%20PM.png)
+![Race 2](https://github.com/agrahamt/typing-speeds/blob/master/race2_2017-02-19%20at%202.03.51%20PM.png)
+![Race 3](https://github.com/agrahamt/typing-speeds/blob/master/race3_2017-02-19%20at%202.05.00%20PM.png)
+![Race 4](https://github.com/agrahamt/typing-speeds/blob/master/race4_2017-02-19%20at%202.07.05%20PM.png)
+![Race 5](https://github.com/agrahamt/typing-speeds/blob/master/race5_2017-02-19%20at%202.08.57%20PM.png)
